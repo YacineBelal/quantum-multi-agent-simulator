@@ -8,6 +8,8 @@ The central research angle is architectural: **how can quantum-state operations 
 
 This code was developed as part of a research internship/project during a Master's degree in Computer Science at **Université de Bretagne Occidentale (UBO), France**. The source archive was supplied as a historical snapshot; the repository preserves that implementation rather than presenting it as a maintained, production-ready simulator.
 
+- [Read the research report](docs/report.pdf)
+
 ## Research focus
 
 The project is primarily an exploration of an agent-based architecture for representing quantum systems. Its key idea is to make each qubit an autonomous agent and use message passing as the coordination mechanism between qubits and the program-level component.
